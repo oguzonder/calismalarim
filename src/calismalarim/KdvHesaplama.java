@@ -12,6 +12,8 @@ public class KdvHesaplama {
         tutar=scan.nextDouble();
         kdvliFiyat=tutar + (tutar*kdv);
         System.out.println("Urunun kdv li fiyatı : " + kdvliFiyat);
+        
+        // entegrasyon guncelleme_deneme
 
 }
     }
