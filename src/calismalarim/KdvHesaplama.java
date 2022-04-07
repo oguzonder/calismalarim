@@ -1,4 +1,4 @@
-package calismalarim;
+package Team.src.calismalarim;
 
 import java.util.Scanner;
 

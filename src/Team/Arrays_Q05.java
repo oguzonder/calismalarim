@@ -1,4 +1,4 @@
-package Team;
+package Team.src.Team;
 
 public class Arrays_Q05 {
     public static void main(String[] args) {
