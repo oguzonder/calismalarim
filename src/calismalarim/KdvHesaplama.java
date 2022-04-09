@@ -14,6 +14,7 @@ public class KdvHesaplama {
         System.out.println("Urunun kdv li fiyatı : " + kdvliFiyat);
         
         // entegrasyon guncelleme_deneme
+        // arkadaslara selamlar
 
 }
     }
