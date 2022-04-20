@@ -1,5 +1,7 @@
 package Team.src.Team;
 
+import java.util.Arrays;
+
 public class arrays_Q12 {
     public static void main(String[] args) {
         //Aşağıdaki multi dimensional array’in iç array’lerindeki tum elemanların
